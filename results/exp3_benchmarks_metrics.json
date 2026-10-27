@@ -1,0 +1,34 @@
+{
+  "oos_start": "2023-05-01",
+  "sample_start_used": "2007-03-01",
+  "sample_end_used": "2026-01-30",
+  "n_oos_days": 691,
+  "spx_buy_hold": {
+    "sharpe": 1.38512830597771,
+    "sortino": 2.0733916670418413,
+    "max_drawdown": -0.1875522149798221,
+    "cumulative_log_return": 0.5447211940233778,
+    "annualized_vol": 0.15102163569994898,
+    "n_days": 691
+  },
+  "equal_weight": {
+    "sharpe": 1.6088890361797379,
+    "sortino": 2.440108064978872,
+    "max_drawdown": -0.08010563279709992,
+    "cumulative_log_return": 0.359271382872848,
+    "annualized_vol": 0.08355262017685644,
+    "n_days": 691
+  },
+  "paper_expected": {
+    "spx_buy_hold": {
+      "sharpe": 1.18,
+      "sortino": 1.5,
+      "max_drawdown": -0.1462
+    },
+    "equal_weight": {
+      "sharpe": 1.59,
+      "sortino": 2.27,
+      "max_drawdown": -0.0987
+    }
+  }
+}

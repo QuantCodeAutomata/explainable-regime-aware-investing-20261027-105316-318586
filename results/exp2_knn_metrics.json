@@ -1,0 +1,25 @@
+{
+  "strategy": "knn_mvo",
+  "oos_start": "2023-05-01",
+  "sample_start_used": "2007-03-01",
+  "sample_end_used": "2026-01-30",
+  "n_oos_days": 691,
+  "runtime_seconds": 38.61465811729431,
+  "sharpe": 1.2776041358842494,
+  "sortino": 1.8386264032063462,
+  "max_drawdown": -0.1088117538899338,
+  "cumulative_log_return": 0.38219756733301447,
+  "annualized_vol": 0.11433266460547954,
+  "n_days": 691,
+  "avg_turnover": 0.37642480275729295,
+  "pct_days_above_threshold": 82.19971056439942,
+  "avg_n_eff": 2.213806484714512,
+  "min_n_eff": 1.9230609100385114,
+  "max_n_eff": 4.999999999769255,
+  "paper_expected": {
+    "sharpe": 1.81,
+    "max_drawdown": -0.1252,
+    "avg_turnover": 0.5665,
+    "pct_days_above_threshold": 94.13
+  }
+}

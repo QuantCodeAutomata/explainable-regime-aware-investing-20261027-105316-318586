@@ -1,0 +1,25 @@
+{
+  "strategy": "wasserstein_hmm_mvo",
+  "oos_start": "2023-05-01",
+  "sample_start_used": "2007-03-01",
+  "sample_end_used": "2026-01-30",
+  "n_oos_days": 691,
+  "runtime_seconds": 586.896674156189,
+  "sharpe": 1.61499783439028,
+  "sortino": 2.449881599154446,
+  "max_drawdown": -0.07985150413771092,
+  "cumulative_log_return": 0.35955325683222905,
+  "annualized_vol": 0.0832861395908036,
+  "n_days": 691,
+  "avg_turnover": 2.725428559829139e-06,
+  "pct_days_above_threshold": 0.0,
+  "avg_n_eff": 4.999940196961997,
+  "min_n_eff": 4.999888857660409,
+  "max_n_eff": 4.999999994728889,
+  "paper_expected": {
+    "sharpe": 2.18,
+    "sortino": 2.82,
+    "max_drawdown": -0.0543,
+    "avg_turnover": 0.0079
+  }
+}
